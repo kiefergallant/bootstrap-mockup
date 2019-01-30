@@ -1,0 +1,13 @@
+.hero{
+  background-image: url('../images/hero-lg.svg');
+  background-size: cover;
+}
+
+.pricing{
+  background-image: url('../images/card-blue.png');
+  background-size: cover;
+}
+
+.card-image-top{
+  font-size: 0.5em;
+}
